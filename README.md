@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinkBot22
-- 👀 I’m interested in trading, investment, python
+- 👀 I’m interested in trading, investment, crypto, market-making, NFTs, python
 - 🌱 I’m currently learning Python
 - 📫 How to reach me pinkpython2022@gmail.com
 
