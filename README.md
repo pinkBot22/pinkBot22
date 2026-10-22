@@ -2,6 +2,7 @@
 - 👀 I’m a web3 enthusiast - specially the financial innovations enabled by blockchain. 
 - 📫 How to reach me pinkpython2022@gmail.com
 - REFERRAL LINKS<br/>
+  https://www.skool.com/ai-automation-society-plus/about?ref=16d1228badff49a595a32b649e39b9e1<br/>
   https://app.lossdog.com/referral/LD53ZDC4S2<br/>
   https://www.therundown.ai/subscribe?ref=Vtu2PDYY51<br/>
   https://www.skool.com/be-limitless/about?ref=16d1228badff49a595a32b649e39b9e1<br/>
