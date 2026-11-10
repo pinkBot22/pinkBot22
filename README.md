@@ -11,6 +11,15 @@
   https://nexo.com/ref/cecpwn8ixi?src=web-link<br/>
   https://www.stashaway.sg/referrals/kettylopjebx<br/>
 
+<details>
+<summary>Explore my experiments</summary>
+
+- AI-powered financial analysis
+- Automated workflows
+- Fintech experiments
+- Python data engineering
+
+</details>
   
 <h1 align="center">THE DIGITAL ALCHEMIST</h1>
 
