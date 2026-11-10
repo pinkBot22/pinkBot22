@@ -10,6 +10,12 @@
   https://optionalpha.com?referral=0kr3h0o&refSource=copy<br/>
   https://nexo.com/ref/cecpwn8ixi?src=web-link<br/>
   https://www.stashaway.sg/referrals/kettylopjebx<br/>
+
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=65&duration=1&pause=999999&color=F9A584&center=true&vCenter=true&width=500&lines=Showcase" />
+</p>
+
 <!---
 pinkBot22/pinkBot22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
