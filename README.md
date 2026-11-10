@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-TOPIC | ILLUSTRATION |
+| TOPIC | ILLUSTRATION |
 |-----:|-----------|
 |FinTech in Africa| https://kettypoinen.github.io/discover-africa
 </p>
