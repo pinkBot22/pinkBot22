@@ -12,8 +12,14 @@
   https://www.stashaway.sg/referrals/kettylopjebx<br/>
 
   
+<h1 align="center">THE DIGITAL ALCHEMIST</h1>
+
+<h3 align="center">
+  Finance · Technology · Artificial Intelligence
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=65&duration=1&pause=999999&color=F9A584&center=true&vCenter=true&width=500&lines=Showcase" />
+  Building, experimenting and transforming ideas into reality.
 </p>
 
 <!---
