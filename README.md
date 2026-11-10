@@ -1,6 +1,6 @@
-👋 Hi, I’m @pinkBot22
-👀 Building with AI
-📫 How to reach me pinkpython2022@gmail.com
+👋 Hi, I’m @pinkBot22<br/>
+👀 Building with AI<br/>
+📫 How to reach me pinkpython2022@gmail.com<br/>
 
 <details>
 <summary>REFERRAL LINKS</summary>
