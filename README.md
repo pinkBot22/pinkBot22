@@ -31,9 +31,11 @@
   Building, experimenting and transforming ideas into reality.
 </p>
 
+<p align="center">
 TOPIC | ILLUSTRATION |
 |-----:|-----------|
 |FinTech in Africa| https://kettypoinen.github.io/discover-africa
+</p>
 
 <!---
 pinkBot22/pinkBot22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
