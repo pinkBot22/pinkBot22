@@ -1,5 +1,5 @@
 👋 Hi, I’m @pinkBot22<br/>
-👀 Building with AI<br/>
+👀 Background in Finance. Web3 enthusiast. Learning AI by building<br/>
 📫 How to reach me pinkpython2022@gmail.com<br/>
 
 <details>
